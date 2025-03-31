@@ -1,4 +1,4 @@
-# CS2 Trading Bot
+# *OUTDATED* THIS IS AN OLD VERSION CS2 Trading Bot
 
 An intelligent AI chatbot for CS2 trading that provides real-time pricing, pattern analysis, and market insights.
 
